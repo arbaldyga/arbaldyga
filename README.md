@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Artur 👋.</h1>
+<h3 align="center">A passionate frontend student from Poland</h3>
 
 <!--
 **arbaldyga/arbaldyga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
