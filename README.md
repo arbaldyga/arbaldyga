@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Artur 👋.</h1>
 <h3 align="center">A passionate frontend student from Poland.</h3>
 
-👷‍♂️ I’m currently working on learning JS!
+👷‍♂️ I’m currently working on my JS skills!
 
 👨‍🎓 Roadmap:
 
