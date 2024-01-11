@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Artur 👋.</h1>
 <h3 align="center">A future junior full stack developer from Poland.</h3>
 
-👷‍♂️ I’m currently working on my JS skills!
+👷‍♂️ I’m currently working on my React skills!
 
 👨‍🎓 Roadmap:
 
 
-| ~~HTML~~ | ~~CSS~~ | **JS**  | React | TypeScript | Node |👈
+| ~~HTML~~ | ~~CSS~~ | ~~JS~~  | **React** | TypeScript | Node |👈
 <!--
 **arbaldyga/arbaldyga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
